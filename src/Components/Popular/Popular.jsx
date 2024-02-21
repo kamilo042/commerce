@@ -15,6 +15,8 @@ const Popular = () => {
         </div>
     </div>
   )
+
+
 }
 
 export default Popular
